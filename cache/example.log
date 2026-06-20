@@ -1,0 +1,2 @@
+:bob!bob@127.0.0.1 PRIVMSG #test3 ::hello wassup
+:johnny!johnny@127.0.0.1 PRIVMSG #test3 ::yessir

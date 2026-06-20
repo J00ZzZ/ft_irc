@@ -1,0 +1,7 @@
+[servers.ft_irc]
+nickname = "oleczek"
+server = "127.0.0.1"
+password = "jajko"
+port = 6667
+use_tls = false
+channels = []

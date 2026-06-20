@@ -1,0 +1,23 @@
+# binary
+
+ft_irc
+ircserv
+*.out
+*.app
+*.elf
+*.a
+*.so
+*.exe
+*.lib
+*.dll
+*.o
+*.out
+
+# editor files
+
+*.swp
+*.swo
+.vscode/
+.fleet/
+.idea/
+.clang-format
